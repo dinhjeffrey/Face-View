@@ -6,7 +6,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceVC.swift"
@@ -36,7 +36,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceVC.swift"
@@ -52,7 +52,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceVC.swift"
@@ -65,49 +65,49 @@
             landmarkType = "3">
             <Locations>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "FaceView.FaceVC.(mouthCurvatures in _B63C469B4CB33FBB2822F5D5E6FD560C).getter : Swift.Dictionary&lt;FaceView.FacialExpression.Mouth, Swift.Double&gt;"
                   moduleName = "FaceView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceVC.swift"
-                  timestampString = "487809523.547674"
+                  timestampString = "488312995.406391"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "27"
-                  endingLineNumber = "27"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
                   offsetFromSymbolStart = "97">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "FaceView.FaceVC.(mouthCurvatures in _B63C469B4CB33FBB2822F5D5E6FD560C).setter : Swift.Dictionary&lt;FaceView.FacialExpression.Mouth, Swift.Double&gt;"
                   moduleName = "FaceView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceVC.swift"
-                  timestampString = "487809523.547809"
+                  timestampString = "488312995.40653"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "27"
-                  endingLineNumber = "27"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
                   offsetFromSymbolStart = "188">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "FaceView.FaceVC.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; FaceView.FaceVC"
                   moduleName = "FaceView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceVC.swift"
-                  timestampString = "487809523.547915"
+                  timestampString = "488312995.406637"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "27"
-                  endingLineNumber = "27"
-                  offsetFromSymbolStart = "250">
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "255">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -115,7 +115,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceVC.swift"
@@ -128,64 +128,64 @@
             landmarkType = "3">
             <Locations>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "FaceView.FaceVC.(eyeBrowTilts in _B63C469B4CB33FBB2822F5D5E6FD560C).getter : Swift.Dictionary&lt;FaceView.FacialExpression.EyeBrows, Swift.Double&gt;"
                   moduleName = "FaceView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceVC.swift"
-                  timestampString = "487809523.549233"
+                  timestampString = "488312995.408164"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "28"
-                  endingLineNumber = "28"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
                   offsetFromSymbolStart = "97">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "FaceView.FaceVC.(eyeBrowTilts in _B63C469B4CB33FBB2822F5D5E6FD560C).setter : Swift.Dictionary&lt;FaceView.FacialExpression.EyeBrows, Swift.Double&gt;"
                   moduleName = "FaceView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceVC.swift"
-                  timestampString = "487809523.549365"
+                  timestampString = "488312995.408342"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "28"
-                  endingLineNumber = "28"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
                   offsetFromSymbolStart = "188">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "FaceView.FaceVC.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; FaceView.FaceVC"
                   moduleName = "FaceView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceVC.swift"
-                  timestampString = "487809523.54947"
+                  timestampString = "488312995.408551"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "28"
-                  endingLineNumber = "28"
-                  offsetFromSymbolStart = "419">
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "424">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "FaceView.FaceVC.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FaceView.FaceVC&gt;"
                   moduleName = "FaceView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceVC.swift"
-                  timestampString = "487809523.549578"
+                  timestampString = "488312995.408722"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "28"
-                  endingLineNumber = "28"
-                  offsetFromSymbolStart = "338">
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "340">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -193,15 +193,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceVC.swift"
-            timestampString = "487894579.478134"
+            timestampString = "488312404.175943"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "57"
-            endingLineNumber = "57"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
             landmarkName = "updateUI()"
             landmarkType = "5">
          </BreakpointContent>
@@ -209,27 +209,11 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceVC.swift"
-            timestampString = "487894579.478134"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "59"
-            endingLineNumber = "59"
-            landmarkName = "updateUI()"
-            landmarkType = "5">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "FaceView/FaceVC.swift"
-            timestampString = "487894579.478134"
+            timestampString = "488312404.175943"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "60"
@@ -241,15 +225,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceVC.swift"
-            timestampString = "487894579.478134"
+            timestampString = "488312561.167583"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "62"
-            endingLineNumber = "62"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
             landmarkName = "updateUI()"
             landmarkType = "5">
          </BreakpointContent>
@@ -257,7 +241,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -268,12 +252,44 @@
             endingLineNumber = "42"
             landmarkName = "Ratios"
             landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_5CEEC28C8186748DE3605B942B05D72D_func2"
+                  moduleName = "FaceView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
+                  timestampString = "488312995.413581"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FaceView.FaceView.(Ratios in _5CEEC28C8186748DE3605B942B05D72D).SkullRadiusToMouthWidth.unsafeMutableAddressor : CoreGraphics.CGFloat"
+                  moduleName = "FaceView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
+                  timestampString = "488312995.413715"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -286,33 +302,33 @@
             landmarkType = "3">
             <Locations>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "globalinit_33_5CEEC28C8186748DE3605B942B05D72D_func0"
+                  symbolName = "globalinit_33_5CEEC28C8186748DE3605B942B05D72D_func3"
                   moduleName = "FaceView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
-                  timestampString = "487809523.554045"
+                  timestampString = "488312995.414439"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "40"
-                  endingLineNumber = "40"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
                   offsetFromSymbolStart = "12">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "FaceView.FaceView.(Ratios in _5CEEC28C8186748DE3605B942B05D72D).SkullRadiusToEyeOffset.unsafeMutableAddressor : CoreGraphics.CGFloat"
+                  symbolName = "FaceView.FaceView.(Ratios in _5CEEC28C8186748DE3605B942B05D72D).SkullRadiusToMouthHeight.unsafeMutableAddressor : CoreGraphics.CGFloat"
                   moduleName = "FaceView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
-                  timestampString = "487809523.554178"
+                  timestampString = "488312995.414566"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "40"
-                  endingLineNumber = "40"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
                   offsetFromSymbolStart = "4">
                </Location>
             </Locations>
@@ -321,7 +337,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -332,44 +348,12 @@
             endingLineNumber = "46"
             landmarkName = "Ratios"
             landmarkType = "3">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "globalinit_33_5CEEC28C8186748DE3605B942B05D72D_func0"
-                  moduleName = "FaceView"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
-                  timestampString = "487809523.555057"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "40"
-                  endingLineNumber = "40"
-                  offsetFromSymbolStart = "12">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "FaceView.FaceView.(Ratios in _5CEEC28C8186748DE3605B942B05D72D).SkullRadiusToEyeOffset.unsafeMutableAddressor : CoreGraphics.CGFloat"
-                  moduleName = "FaceView"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
-                  timestampString = "487809523.555182"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "40"
-                  endingLineNumber = "40"
-                  offsetFromSymbolStart = "4">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -380,44 +364,12 @@
             endingLineNumber = "50"
             landmarkName = "FaceView"
             landmarkType = "3">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "globalinit_33_5CEEC28C8186748DE3605B942B05D72D_func4"
-                  moduleName = "FaceView"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
-                  timestampString = "487809523.555966"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "44"
-                  endingLineNumber = "44"
-                  offsetFromSymbolStart = "12">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "FaceView.FaceView.(Ratios in _5CEEC28C8186748DE3605B942B05D72D).SkullRadiusToMouthOffset.unsafeMutableAddressor : CoreGraphics.CGFloat"
-                  moduleName = "FaceView"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
-                  timestampString = "487809523.556086"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "44"
-                  endingLineNumber = "44"
-                  offsetFromSymbolStart = "4">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -433,7 +385,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -449,7 +401,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -465,7 +417,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -481,7 +433,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -497,7 +449,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -513,7 +465,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -529,7 +481,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -545,7 +497,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -561,7 +513,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -577,7 +529,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -593,7 +545,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -609,7 +561,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -641,7 +593,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -657,7 +609,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -673,7 +625,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -689,7 +641,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -705,7 +657,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -721,7 +673,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -737,7 +689,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -753,7 +705,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -769,7 +721,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -783,7 +735,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -797,7 +749,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -811,11 +763,11 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceVC.swift"
-            timestampString = "487894579.478134"
+            timestampString = "488312404.175943"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "56"
@@ -827,7 +779,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceVC.swift"
@@ -840,49 +792,49 @@
             landmarkType = "3">
             <Locations>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "FaceView.FaceVC.faceView.didset : weak Swift.ImplicitlyUnwrappedOptional&lt;FaceView.FaceView&gt;"
                   moduleName = "FaceView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceVC.swift"
-                  timestampString = "487809523.57153"
+                  timestampString = "488312995.434371"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "24"
-                  endingLineNumber = "24"
-                  offsetFromSymbolStart = "16">
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "19">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "FaceView.FaceVC.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; FaceView.FaceVC"
                   moduleName = "FaceView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceVC.swift"
-                  timestampString = "487809523.571691"
+                  timestampString = "488312995.434486"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "17"
                   endingLineNumber = "17"
-                  offsetFromSymbolStart = "205">
+                  offsetFromSymbolStart = "209">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "FaceView.FaceVC.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FaceView.FaceVC&gt;"
                   moduleName = "FaceView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceVC.swift"
-                  timestampString = "487809523.57186"
+                  timestampString = "488312995.434577"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "17"
                   endingLineNumber = "17"
-                  offsetFromSymbolStart = "136">
+                  offsetFromSymbolStart = "137">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -890,7 +842,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -901,59 +853,12 @@
             endingLineNumber = "20"
             landmarkName = "FaceView"
             landmarkType = "3">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "FaceView.FaceView.eyeBrowTilt.didset : Swift.Double"
-                  moduleName = "FaceView"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
-                  timestampString = "487809523.572885"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "17">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "FaceView.FaceView.init (frame : __C.CGRect) -&gt; FaceView.FaceView"
-                  moduleName = "FaceView"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
-                  timestampString = "487809523.573003"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "108">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "FaceView.FaceView.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FaceView.FaceView&gt;"
-                  moduleName = "FaceView"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
-                  timestampString = "487809523.573143"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "70">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -964,59 +869,12 @@
             endingLineNumber = "22"
             landmarkName = "changeScale(_:)"
             landmarkType = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "FaceView.FaceView.color.didset : __ObjC.UIColor"
-                  moduleName = "FaceView"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
-                  timestampString = "487809523.57404"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "18"
-                  endingLineNumber = "18"
-                  offsetFromSymbolStart = "16">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "FaceView.FaceView.init (frame : __C.CGRect) -&gt; FaceView.FaceView"
-                  moduleName = "FaceView"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
-                  timestampString = "487809523.574152"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "18"
-                  endingLineNumber = "18"
-                  offsetFromSymbolStart = "120">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "FaceView.FaceView.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FaceView.FaceView&gt;"
-                  moduleName = "FaceView"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
-                  timestampString = "487809523.574301"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "18"
-                  endingLineNumber = "18"
-                  offsetFromSymbolStart = "82">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -1029,33 +887,33 @@
             landmarkType = "3">
             <Locations>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "globalinit_33_5CEEC28C8186748DE3605B942B05D72D_func0"
+                  symbolName = "globalinit_33_5CEEC28C8186748DE3605B942B05D72D_func5"
                   moduleName = "FaceView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
-                  timestampString = "487809523.575239"
+                  timestampString = "488312995.436842"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "40"
-                  endingLineNumber = "40"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
                   offsetFromSymbolStart = "12">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "FaceView.FaceView.(Ratios in _5CEEC28C8186748DE3605B942B05D72D).SkullRadiusToEyeOffset.unsafeMutableAddressor : CoreGraphics.CGFloat"
+                  symbolName = "FaceView.FaceView.(Ratios in _5CEEC28C8186748DE3605B942B05D72D).SkullRadiusToBrowOffset.unsafeMutableAddressor : CoreGraphics.CGFloat"
                   moduleName = "FaceView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
-                  timestampString = "487809523.575348"
+                  timestampString = "488312995.437002"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "40"
-                  endingLineNumber = "40"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
                   offsetFromSymbolStart = "4">
                </Location>
             </Locations>
@@ -1064,7 +922,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -1075,44 +933,12 @@
             endingLineNumber = "48"
             landmarkName = "FaceView"
             landmarkType = "3">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "globalinit_33_5CEEC28C8186748DE3605B942B05D72D_func2"
-                  moduleName = "FaceView"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
-                  timestampString = "487809523.57602"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "42"
-                  endingLineNumber = "42"
-                  offsetFromSymbolStart = "12">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "FaceView.FaceView.(Ratios in _5CEEC28C8186748DE3605B942B05D72D).SkullRadiusToMouthWidth.unsafeMutableAddressor : CoreGraphics.CGFloat"
-                  moduleName = "FaceView"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
-                  timestampString = "487809523.576116"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "42"
-                  endingLineNumber = "42"
-                  offsetFromSymbolStart = "4">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -1128,7 +954,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -1144,7 +970,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -1158,7 +984,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceVC.swift"
@@ -1171,34 +997,34 @@
             landmarkType = "3">
             <Locations>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "FaceView.FaceVC.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; FaceView.FaceVC"
                   moduleName = "FaceView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceVC.swift"
-                  timestampString = "487809523.578927"
+                  timestampString = "488312995.440025"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "13"
                   endingLineNumber = "13"
-                  offsetFromSymbolStart = "80">
+                  offsetFromSymbolStart = "83">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "FaceView.FaceVC.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FaceView.FaceVC&gt;"
                   moduleName = "FaceView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceVC.swift"
-                  timestampString = "487809523.579059"
+                  timestampString = "488312995.440166"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "13"
                   endingLineNumber = "13"
-                  offsetFromSymbolStart = "44">
+                  offsetFromSymbolStart = "47">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -1206,15 +1032,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceVC.swift"
-            timestampString = "487894579.478134"
+            timestampString = "488312561.167583"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "63"
-            endingLineNumber = "63"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
             landmarkName = "updateUI()"
             landmarkType = "5">
          </BreakpointContent>
@@ -1226,23 +1052,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceVC.swift"
-            timestampString = "487894579.478134"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "60"
-            endingLineNumber = "60"
-            landmarkName = "updateUI()"
-            landmarkType = "5">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "FaceView/FaceVC.swift"
-            timestampString = "487894579.478134"
+            timestampString = "488312404.175943"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "61"
@@ -1254,7 +1064,23 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FaceView/FaceVC.swift"
+            timestampString = "488312404.175943"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "updateUI()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -1267,49 +1093,49 @@
             landmarkType = "3">
             <Locations>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "FaceView.FaceView.eyesOpen.didset : Swift.Bool"
+                  symbolName = "FaceView.FaceView.color.didset : __ObjC.UIColor"
                   moduleName = "FaceView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
-                  timestampString = "487809523.581353"
+                  timestampString = "488312995.442643"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "16"
-                  endingLineNumber = "16"
-                  offsetFromSymbolStart = "20">
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "16">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "FaceView.FaceView.init (frame : __C.CGRect) -&gt; FaceView.FaceView"
                   moduleName = "FaceView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
-                  timestampString = "487809523.581455"
+                  timestampString = "488312995.44281"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "16"
-                  endingLineNumber = "16"
-                  offsetFromSymbolStart = "97">
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "120">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "FaceView.FaceView.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FaceView.FaceView&gt;"
                   moduleName = "FaceView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
-                  timestampString = "487809523.581537"
+                  timestampString = "488312995.442977"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "16"
-                  endingLineNumber = "16"
-                  offsetFromSymbolStart = "59">
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "82">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -1317,7 +1143,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -1330,14 +1156,14 @@
             landmarkType = "3">
             <Locations>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "FaceView.FaceView.scale.didset : CoreGraphics.CGFloat"
                   moduleName = "FaceView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
-                  timestampString = "487809523.582379"
+                  timestampString = "488312995.443964"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "14"
@@ -1345,14 +1171,14 @@
                   offsetFromSymbolStart = "17">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "FaceView.FaceView.init (frame : __C.CGRect) -&gt; FaceView.FaceView"
                   moduleName = "FaceView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
-                  timestampString = "487809523.58249"
+                  timestampString = "488312995.444115"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "14"
@@ -1360,14 +1186,14 @@
                   offsetFromSymbolStart = "73">
                </Location>
                <Location
-                  shouldBeEnabled = "Yes"
+                  shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "FaceView.FaceView.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FaceView.FaceView&gt;"
                   moduleName = "FaceView"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Jeffrey/Documents/GitHub/swift/stanford/FaceView/FaceView/FaceView.swift"
-                  timestampString = "487809523.582574"
+                  timestampString = "488312995.444221"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "14"
@@ -1380,7 +1206,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -1396,7 +1222,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -1412,7 +1238,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -1428,7 +1254,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceView.swift"
@@ -1444,7 +1270,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceVC.swift"
@@ -1460,17 +1286,63 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FaceView/FaceVC.swift"
-            timestampString = "487894579.478134"
+            timestampString = "488312404.175943"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "58"
-            endingLineNumber = "58"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
             landmarkName = "updateUI()"
             landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FaceView/EmotionsVC.swift"
+            timestampString = "488313323.79578"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "prepareForSegue(_:sender:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FaceView/FaceView.swift"
+            timestampString = "488313065.835015"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FaceView/FaceVC.swift"
+            timestampString = "488313085.094967"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "FaceVC"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

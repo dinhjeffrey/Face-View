@@ -54,13 +54,15 @@ class FaceVC: UIViewController {
     private var eyeBrowTilts = [FacialExpression.EyeBrows.Relaxed: 0.5, .Furrowed: -0.5, .Normal:0.0]
     
     private func updateUI() {
-        switch expression.eyes {
-        case .Squinting: faceView.eyesOpen = false
-        case .Open: faceView.eyesOpen = true
-        case .Closed: faceView.eyesOpen = false
+        if faceView != nil { // works because we do update UI when our model gets set (didSet) and also when outlet gets set, so faceView (the outlet), will not be nil by then
+            switch expression.eyes {
+            case .Squinting: faceView.eyesOpen = false
+            case .Open: faceView.eyesOpen = true
+            case .Closed: faceView.eyesOpen = false
+            }
+            faceView.mouthCurvature = mouthCurvatures[expression.mouth] ?? 0.0
+            faceView.eyeBrowTilt = eyeBrowTilts[expression.eyeBrows] ?? 0.0
         }
-        faceView.mouthCurvature = mouthCurvatures[expression.mouth] ?? 0.0
-        faceView.eyeBrowTilt = eyeBrowTilts[expression.eyeBrows] ?? 0.0
     }
     
     
