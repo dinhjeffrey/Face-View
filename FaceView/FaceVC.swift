@@ -50,11 +50,36 @@ class FaceVC: UIViewController {
     @IBAction func headShake(sender: UITapGestureRecognizer) {
         UIView.animateWithDuration(
             Animation.ShakeDuration,
-            animations: { 
+            animations: {
                 self.faceView.transform = CGAffineTransformRotate(self.faceView.transform, Animation.ShakeAngle)
             },
-           completion: { finished in
+            completion: { finished in
                 // what to do?
+                if finished {
+                    UIView.animateWithDuration(
+                        Animation.ShakeDuration,
+                        animations: {
+                            self.faceView.transform = CGAffineTransformRotate(self.faceView.transform, -Animation.ShakeAngle*2)
+                        },
+                        completion: { finished in
+                            // what to do?
+                            if finished {
+                                UIView.animateWithDuration(
+                                    Animation.ShakeDuration,
+                                    animations: {
+                                        self.faceView.transform = CGAffineTransformRotate(self.faceView.transform, Animation.ShakeAngle)
+                                    },
+                                    completion: { finished in
+                                        // what to do?
+                                        if finished {
+                                            
+                                        }
+                                    }
+                                )
+                            }
+                        }
+                    )
+                }
             }
         )
     }
